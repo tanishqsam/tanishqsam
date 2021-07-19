@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=129e00&style=plastic" alt="developer-metalhead" /> </p>
 
 <p align="center">
-  <a href="https://github.com/developer-metalhead?tab=followers">
+  <a href="https://github.com/tanishqsam?tab=followers">
     <img src="https://img.shields.io/github/followers/developer-metalhead?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   
@@ -20,6 +20,6 @@
   </a>
               
 </p>
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=tanishqsam&show_icons=true&theme=tokyonight" /></p>
 
-<p><img align="center"><img width ="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" /></p>
+<p><img align="center"><img width ="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqsam&show_icons=true&theme=tokyonight&layout=compact" alt="tanishqsam" /></p>
