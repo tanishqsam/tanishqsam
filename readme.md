@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I am Tanishq</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=129e00&style=plastic" alt="developer-metalhead" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tanishqsam&label=Profile%20views&color=129e00&style=plastic" alt="tanishqsam" /> </p>
 
 <p align="center">
   <a href="https://github.com/tanishqsam?tab=followers">
-    <img src="https://img.shields.io/github/followers/developer-metalhead?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/tanishqsam?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   
-  <a href="https://taphere.bio/tanishqsam">
+  <a href="https://plu.us/tanishqsam">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   
