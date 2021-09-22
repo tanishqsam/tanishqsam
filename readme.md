@@ -7,6 +7,10 @@
     <img src="https://img.shields.io/github/followers/tanishqsam?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   
+  <a href="https://www.linkedin.com/in/tanishq-2537a7221/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+  
   <a href="https://plu.us/tanishqsam">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
