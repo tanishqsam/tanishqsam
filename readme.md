@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
   
-  <a href="https://plu.us/tanishqsam">
+  <a href="https://linktr.ee/tanishq14">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   
